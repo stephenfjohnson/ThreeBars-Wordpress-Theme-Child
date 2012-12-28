@@ -8,3 +8,61 @@ Template:       ThreeBars-Wordpress-Theme
 */
 
 @import url("../ThreeBars-Wordpress-Theme/style.css");
+
+/*Edit Code Below This Only*/
+
+body {
+	background: #FFFFFF url("images/top.gif") repeat-x;
+	color: #323232;
+	text-align:center;
+	font:11px/18px Verdana, Arial, Helvetica, sans-serif; 
+	margin: 0px auto 0px;
+	padding: 0px;
+	}
+
+#banner { background: url('images/banner.jpg');
+    background-repeat:no-repeat;
+    background-position: top center;
+    background-size: 100%;
+    height: 70px;
+}
+
+/*Custom Menus Colors*/
+
+.black a:link{
+	color: #000000 !important;
+}
+
+.red a:link{
+	color: #FF0000 !important;
+}
+
+.green a:link{
+	color: #00FF00 !important;
+}
+
+.blue a:link{
+	color: #0000FF !important;
+}
+
+.yellow a:link{
+	color: #FFFF00 !important;
+}
+
+.purple a:link{
+	color: #3300CC !important;
+}
+
+.pink a:link{
+	color: #FF00FF !important;
+}
+
+.grey a:link{
+	color: #C0C0C0 !important;
+}
+
+.dark-grey a:link{
+	color: #444444 !important;
+}
+
+/*End Custom Menu Colors*/
