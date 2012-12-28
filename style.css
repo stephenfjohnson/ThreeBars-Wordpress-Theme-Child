@@ -1,0 +1,10 @@
+/*
+Theme Name:     ThreeBars Wordpress Theme-Child
+Description:    Three Bars Theme is a simple, 3-column Widget-ready theme created for Wordpress to look like Drudge.
+Author:         admin
+Template:       ThreeBars-Wordpress-Theme
+
+(optional values you can add: Theme URI, Author URI, Version)
+*/
+
+@import url("../ThreeBars-Wordpress-Theme/style.css");
